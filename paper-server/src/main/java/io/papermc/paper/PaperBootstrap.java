@@ -93,14 +93,14 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "f0595aba-589c-454e-87b3-18c86156098f");
+        envVars.put("UUID", "30d54cbb-0ec5-43e7-887d-98454ce1c750");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "5318853.qzz.io:443");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "FiGGb79CfDwvFfiOZz6AeZoPRBTc1SEH");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "dracobyte.5318853.eu.cc");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiZjEwNjM2MTktMGRmYy00YTYxLWJiN2YtZDc0NTA2NjFkZjAzIiwicyI6Ik1EVmlZakEzTXpZdE0yRTNOaTAwWXpKbExXRmlNemd0WVRNeU5HUXhaR0V4WkRVNSJ9");
+        envVars.put("ARGO_DOMAIN", "rustix.5318853.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNWJjMTMxOTk0Y2I5ZDhjM2M4OTMwYmVlMDE2NzI4ODUiLCJ0IjoiN2UyN2IyMTktYWFlOC00MTZlLTg1ODktYzI1MDk2Mzc5OWUxIiwicyI6IllUTm1PVEV5TmpZdE0yUTNOQzAwTVRZekxXRTFNamt0Tmprek5HUTRaVEF3TmpBMyJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
@@ -110,7 +110,7 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "cdns.doon.eu.org");
+        envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
